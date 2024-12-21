@@ -18,11 +18,11 @@ npm init-y{
   },
   "infoURL": "https://optimism.io",
   "shortName": "oeth",
-  "chainId": 10,
+  "chainId": 10,1,42161,8453,56,199
   "networkId": 10,
 
   "explorers": [
-    {
+    {npm i ethers
       "name": "etherscan",
       "url": "https://optimistic.etherscan.io",
       "standard": "EIP3091"
