@@ -1,4 +1,4 @@
-{
+npm init-y{
   "name": "OP Mainnet",
   "chain": "ETH",
   "rpc": [
